@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="http://makeagif.com/cCo_Tm">
 
 
 # Gustavo Lázaro
