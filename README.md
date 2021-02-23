@@ -14,8 +14,6 @@ Támbem tenho um instagram focado em te ajudar na jornada de ser um desenvolvedo
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/gustavo-lázaro-175434188/)
-
-[![Gmail Badge](https://img.shields.io/badge/-gubiar.dev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gubiar.dev@gmail.com)](mailto:gubiar.dev@gmail.com)
-
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/gustavo-lázaro-175434188/)|
+[![Gmail Badge](https://img.shields.io/badge/-gubiar.dev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gubiar.dev@gmail.com)](mailto:gubiar.dev@gmail.com)|
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/gubiar.dev)](https://www.instagram.com/gubiar.dev)
