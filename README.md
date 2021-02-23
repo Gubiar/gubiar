@@ -18,4 +18,4 @@ Támbem tenho um instagram focado em te ajudar na jornada de ser um desenvolvedo
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gubiar.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gubiar.dev@gmail.com)](mailto:gubiar.dev@gmail.com)
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=http://instagram.com/gubiar.dev)](instagram.com/gubiar.dev)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/gubiar.dev)](https://www.instagram.com/gubiar.dev)
