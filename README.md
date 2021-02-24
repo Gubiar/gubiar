@@ -1,7 +1,7 @@
 ![BestMeagerHoki-small](https://user-images.githubusercontent.com/39174920/108926972-311cce80-761e-11eb-893f-e5fced2f22f8.gif)
 
 
-# Gustavo Lázaro
+# Gustavo 'Gubiar' Lázaro
 
 ## Olá pessoal 👋
 Sabe, sou aquele tipo de pessoa que não gosta de deixar nada passar. Se for pra fazer, vamo dar a vida nisso!
