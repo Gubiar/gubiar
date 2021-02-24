@@ -1,4 +1,5 @@
-![BestMeagerHoki-small](https://user-images.githubusercontent.com/39174920/108926972-311cce80-761e-11eb-893f-e5fced2f22f8.gif)
+![capa](https://user-images.githubusercontent.com/39174920/108928639-421b0f00-7621-11eb-84f6-d53ff7ab282e.png)
+
 
 
 # Gustavo 'Gubiar' Lázaro
