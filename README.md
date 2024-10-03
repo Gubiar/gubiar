@@ -5,7 +5,7 @@
 
 ## Olá!
 
-Sou **Engenheiro de Computação** e **Desenvolvedor Full-Stack Pleno** com mais de 4 anos de experiência em desenvolvimento de aplicações web e mobile.
+Sou **Engenheiro de Computação** e **Desenvolvedor Full-Stack** com mais de 4 anos de experiência em desenvolvimento de aplicações web e mobile.
 
 Minha expertise abrange desde o **Front-end**, utilizando React e Next.js, até o **Back-end** com Node.js e Java, além de desenvolvimento mobile com Flutter. Tenho profundo conhecimento em **HTML5**, **CSS3**, **Tailwind CSS**, **React.js**, **Flutter**, **API RESTful**, **TypeScript**, **GraphQL**, **MySQL** e **PostgreSQL**.
 
